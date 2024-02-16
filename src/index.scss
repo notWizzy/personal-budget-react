@@ -423,7 +423,7 @@ nav ul li a:hover {
 header {
   height: 350px;
   background-color: #b4c6f0;
-  background-image: url("/public/bg.png");
+  background-image: url('/bg.png');
   background-size: 400px;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -503,9 +503,9 @@ polyline {
   text-align: center;
 }
 
-#newChart {
+/* #d3jsChart {
   height: 500px;
-}
+} */
 
 main article {
   display: inline-block;
